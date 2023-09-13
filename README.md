@@ -247,6 +247,8 @@
 
 ### 2022年
 * [セキュキャンを卒業してその後](https://speakerdeck.com/kurochan/sekiyukiyanwozu-ye-sitesofalsehou)
+* [Cloudflare Zero Trustを利用したセキュアな開発環境へのアクセス手法の確立](https://speakerdeck.com/kurochan/securing-development-environments-using-cloudflare-zero-trust-a1e1df14-f2bf-4bc7-aa0d-15505da30817)
+* [サイバーエージェントのGitHub Copilot導入と 開発生産性](https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing)
 
 ## OSS等
 * [DataDog/chef-datadog: [docker-daemon] Add recipe and tests #249](https://github.com/DataDog/chef-datadog/pull/249)

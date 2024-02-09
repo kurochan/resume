@@ -199,6 +199,8 @@
 * [Akamai x UNIQLOコラボTシャツに書かれたプログラムを解読してみる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2023/04/22/101741)
 * [KVSあるいはKVSベースのNewSQLに高速なAuto Incrementを実装する | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/42382/)
 * [サイバーエージェントのGitHub CopilotのAnalyticsデータを公開！利用開始から約3ヶ月でエンジニアの生産性は向上したのか？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/43059/)
+* [AWSのパブリックIPv4の料金体系の変更とサイバーエージェントのIPv6活用推進事例 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/43423/)
+* [AWS Lambdaの高速なコンテナロードの仕組み | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/44067/)
 
 ## 発表等
 ### 2016年
@@ -247,8 +249,15 @@
 
 ### 2022年
 * [セキュキャンを卒業してその後](https://speakerdeck.com/kurochan/sekiyukiyanwozu-ye-sitesofalsehou)
+
+### 2023年
 * [Cloudflare Zero Trustを利用したセキュアな開発環境へのアクセス手法の確立](https://speakerdeck.com/kurochan/securing-development-environments-using-cloudflare-zero-trust-a1e1df14-f2bf-4bc7-aa0d-15505da30817)
 * [サイバーエージェントのGitHub Copilot導入と 開発生産性](https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing)
+* [スケールするというのはどういうことなのか](https://speakerdeck.com/kurochan/what-does-it-mean-to-scalability)
+* [サイバーエージェントの広告配信におけるIPoEトラフィックの概況](https://speakerdeck.com/kurochan/saihaesientonoguang-gao-pei-xin-niokeruipoetorahuitukunogai-kuang)
+
+### 2024年
+* [AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装](https://speakerdeck.com/kurochan/aws-x-sakuranokuraudonohaiburitudokuraudoniyoruan-jia-nahuretutubi-yu-wang-jie-sok-noshi-zhuang)
 
 ## OSS等
 * [DataDog/chef-datadog: [docker-daemon] Add recipe and tests #249](https://github.com/DataDog/chef-datadog/pull/249)

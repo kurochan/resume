@@ -202,6 +202,9 @@
 * [AWSのパブリックIPv4の料金体系の変更とサイバーエージェントのIPv6活用推進事例 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/43423/)
 * [AWS Lambdaの高速なコンテナロードの仕組み | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/44067/)
 
+#### 2024年
+* [「みんなで金塊堀太郎」という施策で億単位のコスト削減を達成 & 表彰されました](https://developers.cyberagent.co.jp/blog/archives/47408/)
+
 ## 発表等
 ### 2016年
 * [AWSで透過プロキシをやってみた](https://www.slideshare.net/kuro_m88/aws-59930159)

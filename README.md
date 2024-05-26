@@ -261,12 +261,9 @@
 
 ### 2024年
 * [AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装](https://speakerdeck.com/kurochan/aws-x-sakuranokuraudonohaiburitudokuraudoniyoruan-jia-nahuretutubi-yu-wang-jie-sok-noshi-zhuang)
+* [生成AIがもたらす変革～サイバーエージェントのGitHub Copilot活用戦略～ (GitHub Galaxy Tokyo 2024)](https://speakerdeck.com/cyberagentdevelopers/githubgalaxy_cyberagent)
 
-## OSS等
-* [DataDog/chef-datadog: [docker-daemon] Add recipe and tests #249](https://github.com/DataDog/chef-datadog/pull/249)
-  * datadog agentでdocker daemonを監視するためのchefレシピの追加
-* [lxc/linuxcontainers.org: Add Japanese release announcment of LXD 2.0.4 #203](https://github.com/lxc/linuxcontainers.org/pull/203)
-  * LXDのリリース記事の日本語訳に参加
+## OSS等(個人的に興味深かったもの)
 * [python/cpython: bpo-42257: handle empty string in variable executable in platform.libc_ver() #23140](https://github.com/python/cpython/pull/23140)
   * Pythonが特定環境下でlibcのバージョン判定に失敗しエラーになる問題の発見と修正
 * [DataDog/integrations-core: Add workaround for issue in platform.platform() on python 3.8 or later #7932](https://github.com/DataDog/integrations-core/pull/7932)
@@ -276,20 +273,14 @@
   * Pipedの起動時にエラーになった場合に無限ループになってしまう問題の修正
 * [aquasecurity/cloudsploit: Fix condition key name of Amazon SNS topic policies #805](https://github.com/aquasecurity/cloudsploit/pull/805)
   * SNSトピックポリシーの条件キー名が間違っているために過検知が発生していた問題の修正
-* [pipe-cd/pipecd: Fix bug on parsing empty kubernetes manifest #4060](https://github.com/pipe-cd/pipecd/pull/4060)
-  * 空のKubernetesマニフェストをパースすると意図しないエラーが発生する問題の修正
 * [goccy/go-yaml: ast: append new line at the end of file #329](https://github.com/goccy/go-yaml/pull/329)
   * YAMLファイルの末尾に改行がなくPOSIX Stndardに違反している問題の修正
 * [zenn-dev/zenn-community: 特定のユーザIDが実質的に利用不能 #474](https://github.com/zenn-dev/zenn-community/issues/474)
   * Google CloudRunの制約との組み合わせにより、実質的に利用できないユーザIDが存在する問題の指摘
 * [OWASP/Top10: Update Translation of A01 in Japanese #711](https://github.com/OWASP/Top10/pull/711)
   * OWASP Top10のA01が議論の結果方向性が変わったため、日本語訳を更新
-* [Snowflake-Labs/terraform-provider-snowflake: fix: remove share feature from stage because it isn't supported #918](https://github.com/Snowflake-Labs/terraform-provider-snowflake/pull/918)
-  * サポートされていない機能が実装されていたため、現状に合わせて削除
 * [Snowflake-Labs/terraform-provider-snowflake: feat: Support create function with Java language #798](https://github.com/Snowflake-Labs/terraform-provider-snowflake/pull/798)
   * SnowflakeのJava UDFをTerraformで管理できるようにするための機能追加
-* [pipe-cd/pipecd: Add EnableApplication rpc for grpc api service #4274](https://github.com/pipe-cd/pipecd/pull/4274)
-  * terraform provider実装のために、PipedのgRPC APIの機能追加
 * [reg-viz/reg-suit: Add enableACL option to s3-publisher-plugin #602](https://github.com/reg-viz/reg-suit/pull/602)
   * Amazon S3のACLが非推奨となったことに合わせて、ACLを無効化した状態をサポートした
 * [pipe-cd/pipecd: Always scroll to the bottom on terraform plans preview #4473](https://github.com/pipe-cd/pipecd/issues/4473)

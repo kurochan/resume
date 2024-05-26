@@ -1,4 +1,13 @@
 # Resume
+## 目次
+* [目次](#目次)
+* [個人情報](#個人情報)
+* [資格](#資格)
+* [職務経歴](#職務経歴)
+* [コミュニティ活動](#コミュニティ活動)
+* [スキル](#スキル)
+* [発表等](#発表等)
+* [OSS等](#OSS等)
 ## 個人情報
 * GitHub: [@kurochan](https://github.com/kurochan)
 * Twitter: [@kuro_m88](https://twitter.com/kuro_m88)
@@ -263,7 +272,10 @@
 * [AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装](https://speakerdeck.com/kurochan/aws-x-sakuranokuraudonohaiburitudokuraudoniyoruan-jia-nahuretutubi-yu-wang-jie-sok-noshi-zhuang)
 * [生成AIがもたらす変革～サイバーエージェントのGitHub Copilot活用戦略～ (GitHub Galaxy Tokyo 2024)](https://speakerdeck.com/cyberagentdevelopers/githubgalaxy_cyberagent)
 
-## OSS等(個人的に興味深かったもの)
+## OSS等
+> [!NOTE]
+> 特に興味深かったもののみ
+
 * [python/cpython: bpo-42257: handle empty string in variable executable in platform.libc_ver() #23140](https://github.com/python/cpython/pull/23140)
   * Pythonが特定環境下でlibcのバージョン判定に失敗しエラーになる問題の発見と修正
 * [DataDog/integrations-core: Add workaround for issue in platform.platform() on python 3.8 or later #7932](https://github.com/DataDog/integrations-core/pull/7932)

@@ -213,6 +213,10 @@
 
 #### 2024年
 * [「みんなで金塊堀太郎」という施策で億単位のコスト削減を達成 & 表彰されました](https://developers.cyberagent.co.jp/blog/archives/47408/)
+* [AWS CodeBuildのGitHub Actions runnerサポートでLambdaが実行できるようになったので検証しました](https://developers.cyberagent.co.jp/blog/archives/47677/)
+* [AWSのBYOIPがJPNICの割当IPアドレスに対応したので最速(?)でIPアドレスをAWSに持ち込んでみた](https://developers.cyberagent.co.jp/blog/archives/49089/)
+* [Cloudflare Zero Trustの新しいSSHで柔軟かつセキュアなシェルアクセスを手に入れる](https://developers.cyberagent.co.jp/blog/archives/52071/)
+* [Datadog APMで動画のストリームに分散トレーシングを導入してみる](https://developers.cyberagent.co.jp/blog/archives/52206/)
 
 ## 発表等
 ### 2016年
@@ -271,6 +275,9 @@
 ### 2024年
 * [AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装](https://speakerdeck.com/kurochan/aws-x-sakuranokuraudonohaiburitudokuraudoniyoruan-jia-nahuretutubi-yu-wang-jie-sok-noshi-zhuang)
 * [生成AIがもたらす変革～サイバーエージェントのGitHub Copilot活用戦略～ (GitHub Galaxy Tokyo 2024)](https://speakerdeck.com/cyberagentdevelopers/githubgalaxy_cyberagent)
+
+### 2025年
+* [15年入社者に聞く！ これまでのCAのキャリアとこれから](https://speakerdeck.com/kurochan/sim-15th-engineer-carrier)
 
 ## OSS等
 > [!NOTE]

@@ -17,6 +17,7 @@
 * 情報セキュリティスペシャリスト
 * 認定Webアプリケーション脆弱性診断士
 * 認定ネットワーク脆弱性診断士
+* Google Cloud Certified - Professional Cloud Security Engineer
 * 第四級アマチュア無線技士
 * 普通自動車第一種運転免許
 

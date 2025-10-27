@@ -72,7 +72,7 @@
 ## スキル
 ### プログラミング
 * Go
-  * 2年程度
+  * 4年程度
   * Webアプリケーションのバックエンド
 * Scala
   * 6年程度
@@ -84,15 +84,15 @@
 
 ### OS/ミドルウェア
 * Linux
-  * 9年程度
-* MySQL, PostgreSQL, Redis, Memcached
-  * 9年程度
+  * 11年程度
+* MySQL, PostgreSQL, Valkey(Redis), Memcached
+  * 11年程度
 * Docker
-  * 9年程度
+  * 11年程度
 
 ### インフラ/クラウド系
 * AWS
-  * 10年程度
+  * 11年程度
   * 秒間数十万リクエストを処理するシステムの構築運用経験
   * Transit Gatewayを利用したハイブリッドクラウドの構築経験
 * GCP
@@ -117,7 +117,7 @@
 * Terraform
   * terraform providerの開発経験
 * Datadog
-  * 8年程度
+  * 10年程度
   * 複数プロダクトへの導入経験
   * ログ監視、APM、SIEMを用いたセキュリティ監視の構築経験
 * GitHub

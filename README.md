@@ -7,7 +7,6 @@
 * [コミュニティ活動](#コミュニティ活動)
 * [スキル](#スキル)
 * [発表等](#発表等)
-* [OSS等](#OSS等)
 ## 個人情報
 * GitHub: [@kurochan](https://github.com/kurochan)
 * Twitter: [@kuro_m88](https://twitter.com/kuro_m88)
@@ -285,30 +284,3 @@
 ### 2025年
 * [15年入社者に聞く！ これまでのCAのキャリアとこれから](https://speakerdeck.com/kurochan/sim-15th-engineer-carrier)
 
-## OSS等
-> [!NOTE]
-> 特に興味深かったもののみ
-
-* [python/cpython: bpo-42257: handle empty string in variable executable in platform.libc_ver() #23140](https://github.com/python/cpython/pull/23140)
-  * Pythonが特定環境下でlibcのバージョン判定に失敗しエラーになる問題の発見と修正
-* [DataDog/integrations-core: Add workaround for issue in platform.platform() on python 3.8 or later #7932](https://github.com/DataDog/integrations-core/pull/7932)
-* [aws/aws-app-mesh-roadmap: Feature Request: configurable worker threads concurrency of Envoy #292](https://github.com/aws/aws-app-mesh-roadmap/issues/292)
-  * AWS AppMeshのEnvoyのworker thread数を設定できるようにするための機能リクエスト
-* [pipe-cd/pipecd: Improve handling startup error on Piped #2732](https://github.com/pipe-cd/pipecd/pull/2732)
-  * Pipedの起動時にエラーになった場合に無限ループになってしまう問題の修正
-* [aquasecurity/cloudsploit: Fix condition key name of Amazon SNS topic policies #805](https://github.com/aquasecurity/cloudsploit/pull/805)
-  * SNSトピックポリシーの条件キー名が間違っているために過検知が発生していた問題の修正
-* [goccy/go-yaml: ast: append new line at the end of file #329](https://github.com/goccy/go-yaml/pull/329)
-  * YAMLファイルの末尾に改行がなくPOSIX Stndardに違反している問題の修正
-* [zenn-dev/zenn-community: 特定のユーザIDが実質的に利用不能 #474](https://github.com/zenn-dev/zenn-community/issues/474)
-  * Google CloudRunの制約との組み合わせにより、実質的に利用できないユーザIDが存在する問題の指摘
-* [OWASP/Top10: Update Translation of A01 in Japanese #711](https://github.com/OWASP/Top10/pull/711)
-  * OWASP Top10のA01が議論の結果方向性が変わったため、日本語訳を更新
-* [Snowflake-Labs/terraform-provider-snowflake: feat: Support create function with Java language #798](https://github.com/Snowflake-Labs/terraform-provider-snowflake/pull/798)
-  * SnowflakeのJava UDFをTerraformで管理できるようにするための機能追加
-* [reg-viz/reg-suit: Add enableACL option to s3-publisher-plugin #602](https://github.com/reg-viz/reg-suit/pull/602)
-  * Amazon S3のACLが非推奨となったことに合わせて、ACLを無効化した状態をサポートした
-* [pipe-cd/pipecd: Always scroll to the bottom on terraform plans preview #4473](https://github.com/pipe-cd/pipecd/issues/4473)
-  * Reactの挙動に起因する不自然な画面スクロールの原因の特定と修正
-* [asdf-vm/asdf: fix: Set default shell version values on POSIX entrypoint #1594](https://github.com/asdf-vm/asdf/pull/1594)
-  * bash系シェルで `set -u` している環境でasdfの初期化に失敗する問題の修正

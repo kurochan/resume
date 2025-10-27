@@ -223,6 +223,10 @@
 * [Cloudflare Zero Trustの新しいSSHで柔軟かつセキュアなシェルアクセスを手に入れる](https://developers.cyberagent.co.jp/blog/archives/52071/)
 * [Datadog APMで動画のストリームに分散トレーシングを導入してみる](https://developers.cyberagent.co.jp/blog/archives/52206/)
 
+#### 2025年
+* [GoでLuaのユニットテストを書こう](https://developers.cyberagent.co.jp/blog/archives/56556/)
+* [エンジニアの開発AIエージェント活用に年間約4億円投資します！](https://developers.cyberagent.co.jp/blog/archives/57194/)
+
 ## 発表等
 ### 2016年
 * [AWSで透過プロキシをやってみた](https://www.slideshare.net/kuro_m88/aws-59930159)
@@ -283,4 +287,7 @@
 
 ### 2025年
 * [15年入社者に聞く！ これまでのCAのキャリアとこれから](https://speakerdeck.com/kurochan/sim-15th-engineer-carrier)
+* [サイバーエージェントでのSlack活用事例 @ 2025](https://speakerdeck.com/kurochan/slack-event-2025)
+* [AWS Elemental MediaPackageと格闘🤼](https://speakerdeck.com/kurochan/aws-lt-mediapackage)
+* [サイバーエージェント流クラウドコスト削減施策「みんなで金塊堀太郎」](https://speakerdeck.com/kurochan/cyberagent-kinkai-horitarou)
 

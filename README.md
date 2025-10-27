@@ -141,36 +141,51 @@
   * 2022年3月
 
 ### ブログ
-#### 2014年以前
-* [H8マイコンで記号プログラミングをやってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/20110102/1293950669)
-* [C言語で関数の戻り先アドレスを書き換えてみる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2013/08/01/024411)
-* [netcatコマンドでコードを書かずにお手軽チャット環境作ってみる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/07/235729)
-* [Dockerのコンテナを操作できるWebアプリを作ってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/10/235733)
-* [Windows Liveメールアカウント設定ファイル(iafファイル)のパスワードを解析してみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/16/235742)
-* [メールを送信することなくそのメールアドレスが存在するかどうか調べる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/17/172139)
-* [Interop TokyoにSTMとして参加してきた話 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/07/06/203545)
+#### 2025年
+* [GoでLuaのユニットテストを書こう](https://developers.cyberagent.co.jp/blog/archives/56556/)
+* [エンジニアの開発AIエージェント活用に年間約4億円投資します！](https://developers.cyberagent.co.jp/blog/archives/57194/)
 
-#### 2015年
-* [サイバー用語 50本ノック - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/06/26/205351)
-* [ScalaでSSHハニーポットを作ってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/07/29/204333)
-* [LXDでコンテナのライブマイグレーションやってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/08/09/195903)
-* [Dockerでルータをコンテナ化してみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/10/05/130927)
-* [ネットワーク初心者の新卒がDockerでネットワークの勉強をしてみた | サイバーエージェント 公式エンジニアブログ](https://ameblo.jp/principia-ca/entry-12103919307.html)
+#### 2024年
+* [「みんなで金塊堀太郎」という施策で億単位のコスト削減を達成 & 表彰されました](https://developers.cyberagent.co.jp/blog/archives/47408/)
+* [AWS CodeBuildのGitHub Actions runnerサポートでLambdaが実行できるようになったので検証しました](https://developers.cyberagent.co.jp/blog/archives/47677/)
+* [AWSのBYOIPがJPNICの割当IPアドレスに対応したので最速(?)でIPアドレスをAWSに持ち込んでみた](https://developers.cyberagent.co.jp/blog/archives/49089/)
+* [Cloudflare Zero Trustの新しいSSHで柔軟かつセキュアなシェルアクセスを手に入れる](https://developers.cyberagent.co.jp/blog/archives/52071/)
+* [Datadog APMで動画のストリームに分散トレーシングを導入してみる](https://developers.cyberagent.co.jp/blog/archives/52206/)
 
-#### 2016年
-* [新卒研修環境の構築をTerraformで自動化してみた | サイバーエージェント 公式エンジニアブログ](https://ameblo.jp/principia-ca/entry-12153679890.html)
-* [「サーバレス」に対する気持ち - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2016/08/30/191000)
-* [第6回ICTトラブルシューティングコンテストに機材提供をしました | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/1214/)
-* [自宅サーバの思い出 Advent Calendar 2016 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2016/12/13/235049)
+#### 2023年
+* [「一句」を判定するライブラリikku-goをリリースしました - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2023/03/20/105324)
+* [Akamai x UNIQLOコラボTシャツに書かれたプログラムを解読してみる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2023/04/22/101741)
+* [KVSあるいはKVSベースのNewSQLに高速なAuto Incrementを実装する | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/42382/)
+* [サイバーエージェントのGitHub CopilotのAnalyticsデータを公開！利用開始から約3ヶ月でエンジニアの生産性は向上したのか？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/43059/)
+* [AWSのパブリックIPv4の料金体系の変更とサイバーエージェントのIPv6活用推進事例 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/43423/)
+* [AWS Lambdaの高速なコンテナロードの仕組み | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/44067/)
 
-#### 2017年
-* [SSHの鍵の指紋が正しいものかどうかチェックする方法 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/01/25/190200)
-* [クラウドネイティブ世代の新卒2年目が「進化する銀行システム」を読んだ - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/02/22/090000)
-* [Slack用に回転するアニメーション絵文字を作れるようにしてみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/05/20/180222)
-* [アドテクスタジオの新卒エンジニア研修「ひとりDSP」 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/7919/)
-* [Slackで寿司を回転させる技術 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/09/18/183552)
-* [サーバの大量構築をした事がある学生を80人養成した - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/12/21/131953)
-* [Datadog Logsでアプリケーションログを管理する | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/12565/)
+#### 2022年
+* [「Amazon S3のストレージ料金を無料にする裏技」改 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2022/01/27/225749)
+* [新人エンジニアにおすすめする一冊 2022 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/34910/)
+* [サーバサイドでJWTの即時無効化機能を持っていないサービスは脆弱なのか？ - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2022/04/18/112307)
+* [データベースのテーブル定義の仕様書を自動生成しよう | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/35959/)
+* [Cloudflare Zero Trustを利用して開発環境への安全なアクセス方法を構築する | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/39259/)
+
+#### 2021年
+* [サイバーエージェントでの6年間と、次にやること - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2021/04/13/173334)
+* [次世代型ECサイトのアーキテクチャ「ヘッドレスコマース」とは？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/29564/)
+* [Raspberry Pi 30台をデータセンタにデプロイする 1. 企画編(インターネットゼミ) | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/31081/)
+* [Snowflakeの新機能 “Snowpark” Deep Dive！仕組みを覗いてみた！ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/31167/)
+* [Cloudflareのアカウントを勝手に開設され、Webサイトやドメインが乗っ取られうる状態になった話 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2021/09/27/100000)
+
+#### 2020年
+* [Amazon SageMakerのノートブックインスタンスをアイドル時のみ自動停止させる | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/24652/)
+* [AWSでメールを受信したらLambda Functionをキックし作業を自動化する仕組みを作る | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/24908/)
+* [社内向けに「4G/5G モバイルコア技術の基礎 勉強会」を開催しました | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/25014/)
+* [午前0時？午前12時？00:00 a.m.? 12:00 a.m.? - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2020/09/12/134224)
+* [DatadogのSnowflakeインテグレーションが出たので試してみた | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/27692/)
+* [広告配信プロダクトのDWHにSnowflakeを採用しました | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/27886/)
+
+#### 2019年
+* [MAASを使って物理サーバとVMを簡単に構築/管理できるようにする - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2019/05/06/183609)
+* [AWSのAZ(アベイラビリティーゾーン)とは？AZ障害が起きたときどうすればよいのか | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/22732/)
+* [WordPressを安定運用する技術 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/24254/)
 
 #### 2018年
 * [Javaの超低レイテンシなGCアルゴリズム、ZGCをコンパイルして動作を試す - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2018/03/05/190602)
@@ -182,56 +197,85 @@
 * [「転職はとりあえず3年働いてから」って本当ですか？ - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2018/12/31/225401)
 * [Instance Fleetsを使って集計クラスタのランニングコストを1/4にした | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/19150/)
 
-#### 2019年
-* [MAASを使って物理サーバとVMを簡単に構築/管理できるようにする - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2019/05/06/183609)
-* [AWSのAZ(アベイラビリティーゾーン)とは？AZ障害が起きたときどうすればよいのか | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/22732/)
-* [WordPressを安定運用する技術 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/24254/)
+#### 2017年
+* [SSHの鍵の指紋が正しいものかどうかチェックする方法 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/01/25/190200)
+* [クラウドネイティブ世代の新卒2年目が「進化する銀行システム」を読んだ - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/02/22/090000)
+* [Slack用に回転するアニメーション絵文字を作れるようにしてみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/05/20/180222)
+* [アドテクスタジオの新卒エンジニア研修「ひとりDSP」 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/7919/)
+* [Slackで寿司を回転させる技術 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/09/18/183552)
+* [サーバの大量構築をした事がある学生を80人養成した - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2017/12/21/131953)
+* [Datadog Logsでアプリケーションログを管理する | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/12565/)
 
-#### 2020年
-* [Amazon SageMakerのノートブックインスタンスをアイドル時のみ自動停止させる | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/24652/)
-* [AWSでメールを受信したらLambda Functionをキックし作業を自動化する仕組みを作る | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/24908/)
-* [社内向けに「4G/5G モバイルコア技術の基礎 勉強会」を開催しました | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/25014/)
-* [午前0時？午前12時？00:00 a.m.? 12:00 a.m.? - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2020/09/12/134224)
-* [DatadogのSnowflakeインテグレーションが出たので試してみた | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/27692/)
-* [広告配信プロダクトのDWHにSnowflakeを採用しました | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/27886/)
+#### 2016年
+* [新卒研修環境の構築をTerraformで自動化してみた | サイバーエージェント 公式エンジニアブログ](https://ameblo.jp/principia-ca/entry-12153679890.html)
+* [「サーバレス」に対する気持ち - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2016/08/30/191000)
+* [第6回ICTトラブルシューティングコンテストに機材提供をしました | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/1214/)
+* [自宅サーバの思い出 Advent Calendar 2016 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2016/12/13/235049)
 
-#### 2021年
-* [サイバーエージェントでの6年間と、次にやること - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2021/04/13/173334)
-* [次世代型ECサイトのアーキテクチャ「ヘッドレスコマース」とは？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/29564/)
-* [Raspberry Pi 30台をデータセンタにデプロイする 1. 企画編(インターネットゼミ) | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/31081/)
-* [Snowflakeの新機能 “Snowpark” Deep Dive！仕組みを覗いてみた！ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/31167/)
-* [Cloudflareのアカウントを勝手に開設され、Webサイトやドメインが乗っ取られうる状態になった話 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2021/09/27/100000)
+#### 2015年
+* [サイバー用語 50本ノック - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/06/26/205351)
+* [ScalaでSSHハニーポットを作ってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/07/29/204333)
+* [LXDでコンテナのライブマイグレーションやってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/08/09/195903)
+* [Dockerでルータをコンテナ化してみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2015/10/05/130927)
+* [ネットワーク初心者の新卒がDockerでネットワークの勉強をしてみた | サイバーエージェント 公式エンジニアブログ](https://ameblo.jp/principia-ca/entry-12103919307.html)
 
-#### 2022年
-* [「Amazon S3のストレージ料金を無料にする裏技」改 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2022/01/27/225749)
-* [新人エンジニアにおすすめする一冊 2022 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/34910/)
-* [サーバサイドでJWTの即時無効化機能を持っていないサービスは脆弱なのか？ - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2022/04/18/112307)
-* [データベースのテーブル定義の仕様書を自動生成しよう | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/35959/)
-* [Cloudflare Zero Trustを利用して開発環境への安全なアクセス方法を構築する | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/39259/)
-
-#### 2023年
-* [「一句」を判定するライブラリikku-goをリリースしました - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2023/03/20/105324)
-* [Akamai x UNIQLOコラボTシャツに書かれたプログラムを解読してみる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2023/04/22/101741)
-* [KVSあるいはKVSベースのNewSQLに高速なAuto Incrementを実装する | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/42382/)
-* [サイバーエージェントのGitHub CopilotのAnalyticsデータを公開！利用開始から約3ヶ月でエンジニアの生産性は向上したのか？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/43059/)
-* [AWSのパブリックIPv4の料金体系の変更とサイバーエージェントのIPv6活用推進事例 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/43423/)
-* [AWS Lambdaの高速なコンテナロードの仕組み | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/44067/)
-
-#### 2024年
-* [「みんなで金塊堀太郎」という施策で億単位のコスト削減を達成 & 表彰されました](https://developers.cyberagent.co.jp/blog/archives/47408/)
-* [AWS CodeBuildのGitHub Actions runnerサポートでLambdaが実行できるようになったので検証しました](https://developers.cyberagent.co.jp/blog/archives/47677/)
-* [AWSのBYOIPがJPNICの割当IPアドレスに対応したので最速(?)でIPアドレスをAWSに持ち込んでみた](https://developers.cyberagent.co.jp/blog/archives/49089/)
-* [Cloudflare Zero Trustの新しいSSHで柔軟かつセキュアなシェルアクセスを手に入れる](https://developers.cyberagent.co.jp/blog/archives/52071/)
-* [Datadog APMで動画のストリームに分散トレーシングを導入してみる](https://developers.cyberagent.co.jp/blog/archives/52206/)
-
-#### 2025年
-* [GoでLuaのユニットテストを書こう](https://developers.cyberagent.co.jp/blog/archives/56556/)
-* [エンジニアの開発AIエージェント活用に年間約4億円投資します！](https://developers.cyberagent.co.jp/blog/archives/57194/)
+#### 2014年以前
+* [H8マイコンで記号プログラミングをやってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/20110102/1293950669)
+* [C言語で関数の戻り先アドレスを書き換えてみる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2013/08/01/024411)
+* [netcatコマンドでコードを書かずにお手軽チャット環境作ってみる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/07/235729)
+* [Dockerのコンテナを操作できるWebアプリを作ってみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/10/235733)
+* [Windows Liveメールアカウント設定ファイル(iafファイル)のパスワードを解析してみた - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/16/235742)
+* [メールを送信することなくそのメールアドレスが存在するかどうか調べる - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/02/17/172139)
+* [Interop TokyoにSTMとして参加してきた話 - くろの雑記帳](https://kurochan-note.hatenablog.jp/entry/2014/07/06/203545)
 
 ## 発表等
-### 2016年
-* [AWSで透過プロキシをやってみた](https://www.slideshare.net/kuro_m88/aws-59930159)
-* [Logback stackdriver-loggingを作った](https://www.slideshare.net/kuro_m88/logback-stackdriverlogging)
+### 2025年
+* [15年入社者に聞く！ これまでのCAのキャリアとこれから](https://speakerdeck.com/kurochan/sim-15th-engineer-carrier)
+* [サイバーエージェントでのSlack活用事例 @ 2025](https://speakerdeck.com/kurochan/slack-event-2025)
+* [AWS Elemental MediaPackageと格闘🤼](https://speakerdeck.com/kurochan/aws-lt-mediapackage)
+* [サイバーエージェント流クラウドコスト削減施策「みんなで金塊堀太郎」](https://speakerdeck.com/kurochan/cyberagent-kinkai-horitarou)
+
+### 2024年
+* [AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装](https://speakerdeck.com/kurochan/aws-x-sakuranokuraudonohaiburitudokuraudoniyoruan-jia-nahuretutubi-yu-wang-jie-sok-noshi-zhuang)
+* [生成AIがもたらす変革～サイバーエージェントのGitHub Copilot活用戦略～ (GitHub Galaxy Tokyo 2024)](https://speakerdeck.com/cyberagentdevelopers/githubgalaxy_cyberagent)
+
+### 2023年
+* [Cloudflare Zero Trustを利用したセキュアな開発環境へのアクセス手法の確立](https://speakerdeck.com/kurochan/securing-development-environments-using-cloudflare-zero-trust-a1e1df14-f2bf-4bc7-aa0d-15505da30817)
+* [サイバーエージェントのGitHub Copilot導入と 開発生産性](https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing)
+* [スケールするというのはどういうことなのか](https://speakerdeck.com/kurochan/what-does-it-mean-to-scalability)
+* [サイバーエージェントの広告配信におけるIPoEトラフィックの概況](https://speakerdeck.com/kurochan/saihaesientonoguang-gao-pei-xin-niokeruipoetorahuitukunogai-kuang)
+
+### 2022年
+* [セキュキャンを卒業してその後](https://speakerdeck.com/kurochan/sekiyukiyanwozu-ye-sitesofalsehou)
+
+### 2021年
+* [SnowflakeにMySQLとJOINする機能を実装する](https://speakerdeck.com/kurochan/snowflakenimysqltojoinsuruji-neng-wo-shi-zhuang-suru)
+* [140兆円の巨大市場、小売業界の再発明に挑む開発プロジェクト #ca_base_next](https://speakerdeck.com/kurochan/retail-dx-project)
+* [WireGuardとOpenID Connectの連携をGoで実装してみた](https://speakerdeck.com/kurochan/wireguardtoopenid-connectfalselian-xi-wogoteshi-zhuang-sitemita)
+* [入門Open Policy Agent: Policy as Codeを目指して](https://speakerdeck.com/kurochan/introduction-to-open-policy-agent)
+* [サイバーエージェントの実践×実験Snowflake 導入の経緯から最新機能のトライアルまで / How Snowflake Is Used In CyberAgent - Go To the Future](https://speakerdeck.com/kurochan/how-snowflake-is-used-in-cyberagent-go-to-the-future)
+
+### 2020年
+* [CA20新卒研修 セキュリティ編](https://speakerdeck.com/kurochan/ca20xin-zu-yan-xiu-sekiyuriteibian)
+* [CA20新卒研修 インフラ編](https://speakerdeck.com/kurochan/ca20xin-zu-yan-xiu-inhurabian)
+* [SnowflakeとRedshiftの比較検証](https://speakerdeck.com/kurochan/snowflaketoredshiftfalsebi-jiao-jian-zheng)
+* [広告配信プロダクトのSnowflakeへの移行](https://speakerdeck.com/kurochan/guang-gao-pei-xin-purodakutofalsesnowflakehefalseyi-xing)
+* [入門Envoy](https://speakerdeck.com/kurochan/ru-men-envoy)
+* [CyberAgentでのSlack 活用事例紹介](https://speakerdeck.com/kurochan/cyberagentdefalseslack-huo-yong-shi-li-shao-jie)
+
+### 2019年
+* [大規模広告配信プロダクトの今後と課題](https://speakerdeck.com/kurochan/da-gui-mo-guang-gao-pei-xin-hurotakutofalsejin-hou-toke-ti)
+* [Wi-Fi x Scala: Implementing Captive Portal in Scala and deploy into #ScalaMatsuri](https://speakerdeck.com/kurochan/wi-fi-x-scala-implementing-captive-portal-in-scala-and-deploy-into-number-scalamatsuri)
+* [micrometerでDatadogにカスタムメトリクスを送信する](https://speakerdeck.com/kurochan/micrometertedatadognikasutamumetorikusuwosong-xin-suru)
+* [ScalaでCaptive Portalを実装しカンファレンスで運用するまで #npstudy](https://speakerdeck.com/kurochan/scalatecaptive-portalwoshi-zhuang-sikanhuarensuteyun-yong-surumate-number-npstudy)
+* [広告配信システムでのトラフィック計測と実装方法 #ScalaAkiMatsuri](https://speakerdeck.com/kurochan/guang-gao-pei-xin-sisutemutefalsetorahuitukuji-ce-toshi-zhuang-fang-fa-number-scalaakimatsuri)
+* [「なんとなく」使うクラウドから「ちゃんと」使うクラウドへの入門 #awswakaran_tokyo](https://speakerdeck.com/kurochan/nantonaku-shi-ukuraudokara-tiyanto-shi-ukuraudohefalseru-men-number-awswakaran-tokyo)
+* [Cloud Native Data Center Networking超入門](https://speakerdeck.com/kurochan/cloud-native-data-center-networkingchao-ru-men)
+
+### 2018年
+* [月間数千億リクエストをさばく技術 (ArchitectureNight公開用)](https://speakerdeck.com/kurochan/yue-jian-shu-qian-yi-rikuesutowosahakuji-shu-architecturenightgong-kai-yong)
+* [Scala With Cats: Case Study: CRDTs](https://speakerdeck.com/kurochan/scala-with-cats-case-study-crdts)
+* [Webデバイストラッキング手法の紹介](https://speakerdeck.com/kurochan/webdebaisutoratukingushou-fa-falseshao-jie)
 
 ### 2017年
 * [Maglev: A Fast and Reliable Software Network Load Balancer](https://speakerdeck.com/kurochan/maglev-a-fast-and-reliable-software-network-load-balancer)
@@ -244,51 +288,6 @@
 * [Datadog Logsでアプリケーションログを管理する](https://speakerdeck.com/kurochan/datadog-logsdeapurikesiyonroguwoguan-li-suru)
 * [学生に2500台サーバ構築させようとした](https://speakerdeck.com/kurochan/xue-sheng-ni2500tai-sabagou-zhu-saseyoutosita)
 
-### 2018年
-* [月間数千億リクエストをさばく技術 (ArchitectureNight公開用)](https://speakerdeck.com/kurochan/yue-jian-shu-qian-yi-rikuesutowosahakuji-shu-architecturenightgong-kai-yong)
-* [Scala With Cats: Case Study: CRDTs](https://speakerdeck.com/kurochan/scala-with-cats-case-study-crdts)
-* [Webデバイストラッキング手法の紹介](https://speakerdeck.com/kurochan/webdebaisutoratukingushou-fa-falseshao-jie)
-
-### 2019年
-* [大規模広告配信プロダクトの今後と課題](https://speakerdeck.com/kurochan/da-gui-mo-guang-gao-pei-xin-hurotakutofalsejin-hou-toke-ti)
-* [Wi-Fi x Scala: Implementing Captive Portal in Scala and deploy into #ScalaMatsuri](https://speakerdeck.com/kurochan/wi-fi-x-scala-implementing-captive-portal-in-scala-and-deploy-into-number-scalamatsuri)
-* [micrometerでDatadogにカスタムメトリクスを送信する](https://speakerdeck.com/kurochan/micrometertedatadognikasutamumetorikusuwosong-xin-suru)
-* [ScalaでCaptive Portalを実装しカンファレンスで運用するまで #npstudy](https://speakerdeck.com/kurochan/scalatecaptive-portalwoshi-zhuang-sikanhuarensuteyun-yong-surumate-number-npstudy)
-* [広告配信システムでのトラフィック計測と実装方法 #ScalaAkiMatsuri](https://speakerdeck.com/kurochan/guang-gao-pei-xin-sisutemutefalsetorahuitukuji-ce-toshi-zhuang-fang-fa-number-scalaakimatsuri)
-* [「なんとなく」使うクラウドから「ちゃんと」使うクラウドへの入門 #awswakaran_tokyo](https://speakerdeck.com/kurochan/nantonaku-shi-ukuraudokara-tiyanto-shi-ukuraudohefalseru-men-number-awswakaran-tokyo)
-* [Cloud Native Data Center Networking超入門](https://speakerdeck.com/kurochan/cloud-native-data-center-networkingchao-ru-men)
-
-### 2020年
-* [CA20新卒研修 セキュリティ編](https://speakerdeck.com/kurochan/ca20xin-zu-yan-xiu-sekiyuriteibian)
-* [CA20新卒研修 インフラ編](https://speakerdeck.com/kurochan/ca20xin-zu-yan-xiu-inhurabian)
-* [SnowflakeとRedshiftの比較検証](https://speakerdeck.com/kurochan/snowflaketoredshiftfalsebi-jiao-jian-zheng)
-* [広告配信プロダクトのSnowflakeへの移行](https://speakerdeck.com/kurochan/guang-gao-pei-xin-purodakutofalsesnowflakehefalseyi-xing)
-* [入門Envoy](https://speakerdeck.com/kurochan/ru-men-envoy)
-* [CyberAgentでのSlack 活用事例紹介](https://speakerdeck.com/kurochan/cyberagentdefalseslack-huo-yong-shi-li-shao-jie)
-
-### 2021年
-* [SnowflakeにMySQLとJOINする機能を実装する](https://speakerdeck.com/kurochan/snowflakenimysqltojoinsuruji-neng-wo-shi-zhuang-suru)
-* [140兆円の巨大市場、小売業界の再発明に挑む開発プロジェクト #ca_base_next](https://speakerdeck.com/kurochan/retail-dx-project)
-* [WireGuardとOpenID Connectの連携をGoで実装してみた](https://speakerdeck.com/kurochan/wireguardtoopenid-connectfalselian-xi-wogoteshi-zhuang-sitemita)
-* [入門Open Policy Agent: Policy as Codeを目指して](https://speakerdeck.com/kurochan/introduction-to-open-policy-agent)
-* [サイバーエージェントの実践×実験Snowflake 導入の経緯から最新機能のトライアルまで / How Snowflake Is Used In CyberAgent - Go To the Future](https://speakerdeck.com/kurochan/how-snowflake-is-used-in-cyberagent-go-to-the-future)
-
-### 2022年
-* [セキュキャンを卒業してその後](https://speakerdeck.com/kurochan/sekiyukiyanwozu-ye-sitesofalsehou)
-
-### 2023年
-* [Cloudflare Zero Trustを利用したセキュアな開発環境へのアクセス手法の確立](https://speakerdeck.com/kurochan/securing-development-environments-using-cloudflare-zero-trust-a1e1df14-f2bf-4bc7-aa0d-15505da30817)
-* [サイバーエージェントのGitHub Copilot導入と 開発生産性](https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing)
-* [スケールするというのはどういうことなのか](https://speakerdeck.com/kurochan/what-does-it-mean-to-scalability)
-* [サイバーエージェントの広告配信におけるIPoEトラフィックの概況](https://speakerdeck.com/kurochan/saihaesientonoguang-gao-pei-xin-niokeruipoetorahuitukunogai-kuang)
-
-### 2024年
-* [AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装](https://speakerdeck.com/kurochan/aws-x-sakuranokuraudonohaiburitudokuraudoniyoruan-jia-nahuretutubi-yu-wang-jie-sok-noshi-zhuang)
-* [生成AIがもたらす変革～サイバーエージェントのGitHub Copilot活用戦略～ (GitHub Galaxy Tokyo 2024)](https://speakerdeck.com/cyberagentdevelopers/githubgalaxy_cyberagent)
-
-### 2025年
-* [15年入社者に聞く！ これまでのCAのキャリアとこれから](https://speakerdeck.com/kurochan/sim-15th-engineer-carrier)
-* [サイバーエージェントでのSlack活用事例 @ 2025](https://speakerdeck.com/kurochan/slack-event-2025)
-* [AWS Elemental MediaPackageと格闘🤼](https://speakerdeck.com/kurochan/aws-lt-mediapackage)
-* [サイバーエージェント流クラウドコスト削減施策「みんなで金塊堀太郎」](https://speakerdeck.com/kurochan/cyberagent-kinkai-horitarou)
-
+### 2016年
+* [AWSで透過プロキシをやってみた](https://www.slideshare.net/kuro_m88/aws-59930159)
+* [Logback stackdriver-loggingを作った](https://www.slideshare.net/kuro_m88/logback-stackdriverlogging)
